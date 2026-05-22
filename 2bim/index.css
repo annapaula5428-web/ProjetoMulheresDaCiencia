@@ -3,17 +3,12 @@ body{
   
 }
 
-h2{
-    text-align: right;
-    margin-top: -50px;
-}
-
 div{
-    font-size: 25px;
-    border-radius: 50px;
-    border-radius: 20px;
     border-style: solid;
     justify-content: center;
-    text-align: center;
     background-color:rgb(130, 168, 218)
+}
+h1{
+    text-align: center;
+    color:rgb(170, 0, 0)
 }
