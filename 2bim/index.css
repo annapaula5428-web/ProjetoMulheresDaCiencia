@@ -1,5 +1,5 @@
 body{
-    background-color: darkgrey;
+    background-color: rgb(26, 26, 26);
   
 }
 
@@ -9,5 +9,11 @@ h2{
 }
 
 div{
-    background-color:dimgrey
+    font-size: 25px;
+    border-radius: 50px;
+    border-radius: 20px;
+    border-style: solid;
+    justify-content: center;
+    text-align: center;
+    background-color:rgb(130, 168, 218)
 }
