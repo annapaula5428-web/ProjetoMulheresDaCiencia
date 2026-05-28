@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(203, 240, 255);
+    background-color: rgb(60, 68, 94);
   
 }
 *{
@@ -9,48 +9,90 @@ box-sizing: border-box;
 }
 
 div{
-    border-style: solid;
+    border:none;
     text-align: center;
     justify-content: center;
-    background-color:rgb(183, 212, 240)
+    background-color:rgb(88, 127, 158)
 }
-h1{
-    text-align: center;
+.img-fundo{
+    background-image: url(Fundo.jpg);
 }
-p{
-    text-align: center;
+.historia{
+    text-align:center;
+
+}
+.logo{
+    background-color: rgb(95, 121, 138);
+    height: 75px;
+}
+.texto{
+background-color: rgb(41, 65, 88);
 }
 .cards-area{
     border: none;
 }
 .titulo-cards{
     border: none;
+    height: 75px;
 }
 .grupo-cards{
     display: flex;
     gap: 20px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.137);
 }
 .card{
-    width: 1500px;
+    width: 1000px;
     height: 300px;
     border-radius: 20px;
+
     background-color: rgb(130, 165, 206);
+}
+.marinha{
+    width: 75%;
+    border-radius: 25px;
 }
 .cards{
-    width: 1500px;
+    width: 1000px;
     height: 300px;
     border-radius: 20px;
     background-color: rgb(130, 165, 206);
+}
+.governo{
+    width: 75%;
+    border-radius: 20px;
 }
 .cardt{
-    width: 1500px;
+    width: 1000px;
     height: 300px;
     border-radius: 20px;
     background-color: rgb(130, 165, 206);
 }
+.exercito{
+    width: 75%;
+    border-radius: 20px;
+}
 .cardq{
-    width: 1500px;
+    width: 1000px;
     height: 300px;
     border-radius: 20px;;
     background-color: rgb(130, 165, 206);
+}
+.pirata{
+    width: 75%;
+    border-radius: 20px;
+}
+.area-texto{
+    height: 150px;
+    background-color: rgb(26, 31, 63);
+}
+.footer1{
+    background-color: rgb(45, 55, 83);
+    border:none;
+    height: 100px;
+}
+.footer2{
+    border: none;
+    height: 50px;
+    background-color: rgb(45, 55, 83);
 }
