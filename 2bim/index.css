@@ -1,14 +1,56 @@
 body{
-    background-color: rgb(26, 26, 26);
+    background-color: rgb(203, 240, 255);
   
+}
+*{
+box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
 }
 
 div{
     border-style: solid;
+    text-align: center;
     justify-content: center;
-    background-color:rgb(130, 168, 218)
+    background-color:rgb(183, 212, 240)
 }
 h1{
     text-align: center;
-    color:rgb(170, 0, 0)
+}
+p{
+    text-align: center;
+}
+.cards-area{
+    border: none;
+}
+.titulo-cards{
+    border: none;
+}
+.grupo-cards{
+    display: flex;
+    gap: 20px;
+}
+.card{
+    width: 1500px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: rgb(130, 165, 206);
+}
+.cards{
+    width: 1500px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: rgb(130, 165, 206);
+}
+.cardt{
+    width: 1500px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: rgb(130, 165, 206);
+}
+.cardq{
+    width: 1500px;
+    height: 300px;
+    border-radius: 20px;;
+    background-color: rgb(130, 165, 206);
 }
