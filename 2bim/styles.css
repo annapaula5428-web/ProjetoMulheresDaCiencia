@@ -10,3 +10,149 @@ header{
     width: 1000px;
     height: 100px;
 }
+.grupo-cards{
+    display: flex;
+    gap: 20px;
+    height: 400px;
+    background-color:rgb(31, 0, 0);
+}
+.card{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    width: 700px;
+    height: 350px;
+    border-radius: 20px;
+
+    background-color: rgb(130, 165, 206);
+}
+.Luffy{
+    width: 80%;
+    border-radius: 25px;
+}
+.cards{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    width: 700px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: rgb(130, 165, 206);
+}
+.Zoro{
+
+    width: 80%;
+    border-radius: 20px;
+}
+.cardt{
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    width: 700px;
+    height: 350px;
+    border-radius: 20px;
+    background-color: rgb(130, 165, 206);
+}
+.Nami{
+    width: 80%;
+    border-radius: 20px;
+}
+.cardq{
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    width: 700px;
+    height: 350px;
+    border-radius: 20px;;
+    background-color: rgb(130, 165, 206);
+}
+.Usopp{
+    width: 80%;
+    border-radius: 20px;
+}
+.cardqi{
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    width: 700px;
+    height: 350px;
+    border-radius: 20px;;
+    background-color: rgb(130, 165, 206);
+}
+.Sanji{
+    width: 80%;
+    border-radius: 20px;
+}
+.cards{
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    width: 700px;
+    height: 350px;
+    border-radius: 20px;;
+    background-color: rgb(130, 165, 206);
+}
+.chopper{
+    width: 80%;
+    border-radius: 20px;
+}
+.cardse{
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    width: 700px;
+    height: 350px;
+    border-radius: 20px;;
+    background-color: rgb(130, 165, 206);
+}
+.Robin{
+    width: 80%;
+    border-radius: 20px;
+}
+.cardo{
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    width: 700px;
+    height: 350px;
+    border-radius: 20px;;
+    background-color: rgb(130, 165, 206);
+}
+.franky{
+    width: 80%;
+    border-radius: 20px;
+}
+.cardn{
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    width: 700px;
+    height: 350px;
+    border-radius: 20px;;
+    background-color: rgb(130, 165, 206);
+}
+.brook{
+    width: 80%;
+    border-radius: 20px;
+}
+.cardse{
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+    width: 700px;
+    height: 350px;
+    border-radius: 20px;;
+    background-color: rgb(130, 165, 206);
+}
+.jinbe{
+    width: 80%;
+    border-radius: 20px;
+}
